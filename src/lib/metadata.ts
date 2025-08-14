@@ -64,7 +64,7 @@ export const experiences = [
   {
     title: "Software Developer Intern",
     company: "Sapphire Software Solutions",
-    location: "Pune, IN",
+    location: "Ahmedabad, IN",
     type: "Internship",
     date: "2022 - 2023",
     description: "During my internship at Sapphire, I helped develop and deploy key features for the Vidyalaya ERP system using React.js, Node.js, and MongoDB, resulting in a 20% boost in system performance and a 15% increase in user satisfaction. I integrated the WhatsApp Business API and built three biometric authentication tools using Python, which streamlined workflows for over 500 users. I also managed more than 10 e-learning modules and enhanced platform scalability and reliability using Docker, Kubernetes, and AWS.",
